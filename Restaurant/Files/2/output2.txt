@@ -1,0 +1,19 @@
+Restaurante abierto
+
+Bienvenido Diego al restaurante
+Me comi un plato de Carne
+Me comi un plato de Arroz
+Me comi un plato de Sopa
+Estoy satisfecho!
+Tiene que pagar una cuenta de 45 pesos
+
+Bienvenido Felipe al restaurante
+Me comi un plato de Carne
+Me comi un plato de Pescado
+Me comi un plato de Arroz
+Estoy satisfecho!
+Tiene que pagar una cuenta de 45 pesos
+
+
+Restaurante cerrado
+El restaurante gano 90 pesos

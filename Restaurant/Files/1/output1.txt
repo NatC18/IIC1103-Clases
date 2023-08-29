@@ -1,0 +1,33 @@
+Restaurante abierto
+
+Bienvenido Camila al restaurante
+Me comi un plato de Carne
+Me comi un plato de Carne
+Estoy satisfecho!
+Tiene que pagar una cuenta de 30 pesos
+
+Bienvenido Camila al restaurante
+Me comi un plato de Carne
+Me comi un plato de Sopa
+Me comi un plato de Sopa
+Estoy satisfecho!
+Tiene que pagar una cuenta de 45 pesos
+
+Bienvenido Lucía al restaurante
+Me comi un plato de Pescado
+Me comi un plato de Ensalada
+Estoy satisfecho!
+Tiene que pagar una cuenta de 30 pesos
+
+Bienvenido Hugo al restaurante
+Me comi un plato de Pescado
+Me comi un plato de Pescado
+Me comi un plato de Carne
+Me comi un plato de Carne
+Me comi un plato de Carne
+Estoy satisfecho!
+Tiene que pagar una cuenta de 75 pesos
+
+
+Restaurante cerrado
+El restaurante gano 180 pesos
