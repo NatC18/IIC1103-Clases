@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T19:51:07.821Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="Y1VUGoqFuuHQFeZmpUp_" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T19:54:50.558Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="3demkYL_dfqUf0SzDlhE" version="22.0.4" type="github">
   <diagram name="Page-1" id="djyRzcTOt3VMRXSjjJ17">
-    <mxGraphModel dx="2316" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3781" dy="1957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1194,7 +1194,7 @@
         <mxCell id="bsvw4XNhDaf4W7q8XhJa-347" value="IGetSignal" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="1010" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bsvw4XNhDaf4W7q8XhJa-348" value="ISendVideo" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bsvw4XNhDaf4W7q8XhJa-348" value="ISendFullVideo" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="850" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bsvw4XNhDaf4W7q8XhJa-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bsvw4XNhDaf4W7q8XhJa-348" target="bsvw4XNhDaf4W7q8XhJa-348">
@@ -1235,6 +1235,15 @@
         </mxCell>
         <mxCell id="bsvw4XNhDaf4W7q8XhJa-361" value="IIsSpotter" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="994" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bsvw4XNhDaf4W7q8XhJa-362" value="Los nombres de estas interfaces están descritas en el detalle" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=30;position=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="160" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bsvw4XNhDaf4W7q8XhJa-363" value="Se usan buckets y no DB porque se están guardando imágenes/videos" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="815" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="bsvw4XNhDaf4W7q8XhJa-365" value="Esta DB permite saber que drones están cerca" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="500" y="666" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
